@@ -49,7 +49,7 @@ const Hero: React.FC = () => {
           <div className="relative p-3 bg-white/5 border border-white/10 rounded-square shadow-2xl">
              <div className="overflow-hidden rounded-square">
                <img
-  src="/images/IMG_4044.JPG"
+  src="/images/DSC_0067.JPG"
   alt="Mahendra Profile"
   className="w-full aspect-square object-cover hover:scale-105 transition-transform duration-1000"
 />
